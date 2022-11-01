@@ -1,3 +1,5 @@
 aa.png
-*.bin/
-*.obj/
+bin/
+obj/
+*.vscode
+*.DS_Store
